@@ -14,7 +14,7 @@ public class Run {
 //		m2.setAge(33);
 //		m2.setPhoneNumber(4444);
 		
-		// 빌더패턴을 통해 객체 생성
+		// 빌더패턴을 통해 객체 생성ZZ
 		Member member = new Member
 					.Builder("alsrudals")
 					.age(25)
