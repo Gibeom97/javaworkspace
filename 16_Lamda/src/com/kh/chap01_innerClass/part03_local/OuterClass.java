@@ -13,7 +13,7 @@ public class OuterClass {
 	 * 	   	* 스택프레임(매개변수정보, 지역변수정보, 반환되는 위치정보, 반환형정보 등이 저장)
 	 * 	2. static키워드가 붙은 필드는 static메모리에 저장공간을 할당받음.
 	 * 	   static final(상수)키워드가 붙은 필드는 static메모리 안에서 상수풀에 저장공간을 할당된다.
-	 * 	   final 키워드만 붙은 필드도 상수풀에 저장공ㄷ간을 할당받는다.
+	 * 	   final 키워드만 붙은 필드도 상수풀에 저장공간을 할당받는다.
 	 * */
 	
 	private String outerStr = "외부클래스 필드";
